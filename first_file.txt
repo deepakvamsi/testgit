@@ -1,2 +1,3 @@
 #!/bin/bash 
 echo "It is first file"
+echo "Added new file"
